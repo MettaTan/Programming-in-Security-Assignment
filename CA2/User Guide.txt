@@ -1,0 +1,6 @@
+fileserver = server used for storing account file and sending menu to clients
+mainclient = contains the main program. account login and creation is located here. Main SPAM system is stored here as well
+menu-editor = for admin to update menu and send back to server
+how to open files:
+1. open DISM-1B02_1904275_CA2 and open server
+2. open new VS code window and press Add folder to workspace and choose the same DISM-1B02_1904275_CA2 folder and open clients
